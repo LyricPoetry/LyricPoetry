@@ -1,0 +1,42 @@
+{
+  "title": "sellwell",
+  "plugins": [
+   
+    "ad",
+   
+    "tbfed-pagefooter",
+    "lunr",
+    "search",
+    "search-pro",
+    "back-to-top-button",
+    "copy-code-button",
+    "cuav-chapters",
+    "heading-anchors",
+    "highlight",
+    "chapter-fold",
+    "expandable-chapters",
+    "theme-fexa",
+    "code",
+    "splitter",
+    "tbfed-pagefooter",
+    "popup",
+    "fontsettings",
+    "disqus",
+    "anchors",
+    "pageview-count",
+    "toggle-chapters",
+    "page-toc-button",
+    "accordion"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "YOUR-DISQUS-SHORTNAME"
+    },
+  
+    "tbfed-pagefooter": {
+      "copyright": "&copy software teams , ",
+      "modify_label": "文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
+}
